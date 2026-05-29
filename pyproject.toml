@@ -1,0 +1,7 @@
+[project]
+name = "pubmed"
+version = "0.1.0"
+description = "simple pubmed pdf fetcher using ftp"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
